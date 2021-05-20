@@ -4,8 +4,8 @@
 - 👨‍💻 Currently looking for new opportunities as a Software Developer!
 
 <div align="center" style="display: flex; justify-content: space-evenly;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cslunetta&show_icons=true&count_private=true&theme=gruvbox" alt="github statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cslunetta&layout=compact&theme=gruvbox" alt="github statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cslunetta&show_icons=true&count_private=true&theme=react&hide=stars&include_all_commits=true" alt="github statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cslunetta&layout=compact&theme=react" alt="github statistics" />
 </div>
 
 ## 💻 Skills
