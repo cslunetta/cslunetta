@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Chris!
-- 🌱 I’m currently learning C# at NSS
+# 👋 Hi, I’m Christopher Lunetta!
+### About me
+- 🎓 Recent grad from NSS (Nashville Software School)
+- 👨‍💻 Currently looking for new opportunities as a Software Developer!
 
 <div align="center" style="display: flex; justify-content: space-evenly;">
   <img src="https://github-readme-stats.vercel.app/api?username=cslunetta&show_icons=true&count_private=true&theme=gruvbox" alt="github statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keartroth&layout=compact&theme=gruvbox" alt="github statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cslunetta&layout=compact&theme=gruvbox" alt="github statistics" />
 </div>
 
 ## 💻 Skills
@@ -18,7 +20,13 @@
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 </div>
 
-<!---
-cslunetta/cslunetta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect with me
+<div>
+  <a href="https://www.linkedin.com/in/christopher-lunetta/" target="_blank" style="text-decoration: none; &:hover {text-decoration: none;}">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logo" alt="linkedin" height="30" />
+  </a>  
+  <a href="https://cslunetta.github.io/" target="_blank" style="text-decoration: none; &:hover {text-decoration: none;}">
+    <img src="https://img.shields.io/badge/Christopher's-Personal%20Website-teal" alt="personal site" height="30" />
+  </a>
+</div>
+<br/>
