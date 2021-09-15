@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Christopher Lunetta!
 ### About me
-- 🎓 Recent grad from NSS (Nashville Software School)
-- 👨‍💻 Currently looking for new opportunities as a Software Developer!
+- 👨‍💻 Software Engineer
+- 🎓 Nashville Software School Grad
 
 <div align="center" style="display: flex; justify-content: space-evenly;">
   <img src="https://github-readme-stats.vercel.app/api?username=cslunetta&show_icons=true&count_private=true&theme=react&hide=stars&include_all_commits=true" alt="github statistics" />
