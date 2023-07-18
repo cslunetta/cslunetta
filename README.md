@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Christopher Lunetta!
 ### About me
-- 👨‍💻 Associate Software Engineer @ Insight
+- 👨‍💻 Software Engineer @ Insight
 - 🎓 Nashville Software School Grad
 
 <div align="center" style="display: flex; justify-content: space-evenly;">
