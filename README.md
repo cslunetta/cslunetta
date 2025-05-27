@@ -1,32 +1,53 @@
-# 👋 Hi, I’m Christopher Lunetta!
-### About me
-- 👨‍💻 Software Engineer @ Insight
-- 🎓 Nashville Software School Grad
+# 👋 Hi, I’m Christopher Lunetta
 
-<div align="center" style="display: flex; justify-content: space-evenly;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cslunetta&show_icons=true&count_private=true&theme=react&hide=stars&include_all_commits=true" alt="github statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cslunetta&layout=compact&theme=react" alt="github statistics" />
-</div>
+### About Me
+- 💻 Full-Stack Software Engineer | Team Lead | Problem-Solver
+- 🎓 Nashville Software School Grad with a background in logistics and operations
+- 🧠 Nearly 4 years of professional experience building scalable, user-focused applications across healthcare, finance, construction, and hospitality
+- 🚀 Delivered full-stack cloud-native solutions using C#, .NET, React, and Azure
+- 🤝 Known for cross-functional collaboration, team mentoring, and fast ramp-up on new technologies
+- 🌱 Constant learner – passionate about clean code, pragmatic design, and impactful projects
 
-## 💻 Skills
-<div align="center" style="display: flex; justify-content: space-between;">
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-</div>
+---
 
-## 📫 Connect with me
-<div>
-  <a href="https://www.linkedin.com/in/christopher-lunetta/" target="_blank" style="text-decoration: none; &:hover {text-decoration: none;}">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logo" alt="linkedin" height="30" />
-  </a>  
-  <a href="https://cslunetta.github.io/" target="_blank" style="text-decoration: none; &:hover {text-decoration: none;}">
-    <img src="https://img.shields.io/badge/Christopher's-Personal%20Website-teal" alt="personal site" height="30" />
-  </a>
-</div>
-<br/>
+## 🔍 Open to Work
+
+I’m currently open to **contract** or **full-time** Software Engineering roles (remote or Middle Tennessee-based).  
+If you’re building something meaningful—let’s connect!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🧱 Backend & Cloud  
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://learn.microsoft.com/en-us/azure/devops/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/sql-server/)
+
+### 🎨 Frontend  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### 🔧 Tools  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+---
+
+## 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/christopher-lunetta/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+</a>
+<a href="https://cslunetta.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Christopher's%20Website-00bfa6?style=for-the-badge" height="30"/>
+</a>
+
+---
+
+> 💬 Looking to join a team where I can make an impact through clean code, collaboration, and curiosity.
